@@ -26,9 +26,9 @@
     "MIT-LICENSE.txt"
   ],
   "dependencies": {
+    "@xmldom/xmldom": "^0.7.13",
     "rgbcolor": "0.0.4",
-    "stackblur": "^1.0.0",
-    "xmldom": "^0.1.22"
+    "stackblur": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/gabelerner/canvg/issues"
